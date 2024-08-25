@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST={pages:{},app:{'/Users/reddy/Webpage_VizFlow/my-app/node_modules/next/font/google/target.css?{"path":"app/layout.tsx","import":"Open_Sans","arguments":[{"subsets":["latin"]}],"variableName":"open_sans"}':["static/media/3d9ea938b6afa941-s.p.woff2"]},appUsingSizeAdjust:!0,pagesUsingSizeAdjust:!1};
